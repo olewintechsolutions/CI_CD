@@ -9,7 +9,7 @@ function App() {
         <h1>Hello Welcome</h1>
         <h2>Successfully integrated CI/CD pipeline</h2>
    
-        <a href="https://olewintechsolutions.com">olewintechsolutions.com</a>
+        <a href="https://olewintechsolutions.com"> <p>Olewintechsolutions</p></a>
         <a
           className="App-link"
           href="https://reactjs.org"
