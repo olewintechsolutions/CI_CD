@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Navbar, Nav, Button, Offcanvas, Container,Dropdown } from 'react-bootstrap';
 import '../styles/navbar.css'; // For additional styles
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const MyNavbar = () => {
   const [showOffcanvas, setShowOffcanvas] = useState(false);
